@@ -1,0 +1,30 @@
+.header {
+    grid-area: h;
+    background-color:rgb(219, 219, 214);
+    height: 50px;
+  }
+  .headerName {
+    font-size: 30px;
+    letter-spacing: 4 px;
+    margin: 4px 50px 70px 20px;
+    color: white;
+    text-shadow: 
+    0 0 5px white, 
+    0 0 10px white, 
+    0 0 15px white, 
+    0 0 20px rgb(33, 138, 156), 
+    0 0 35px rgb(40, 131, 134), 
+    0 0 40px rgb(16, 185, 190), 
+    0 0 50px rgb(20, 207, 220), 
+    0 0 75px rgb(23, 216, 206);
+  }
+.loginBlock{
+  float: right;
+  font-size: 20px;
+  
+  
+}
+.loginBlock a{
+  color: rgb(62, 47, 102);
+  text-decoration: none;
+}

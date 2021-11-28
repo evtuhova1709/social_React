@@ -1,0 +1,18 @@
+
+.usersPhoto {
+    width: 90px ;
+    height: 100px;
+}
+.pages{
+    padding: 10px;
+}
+.selectedPage{
+    font-weight: bold;
+    
+    border-top: 10px seagreen ;
+    
+}
+.preloader{
+    width: 90px ;
+    height: 100px;
+}

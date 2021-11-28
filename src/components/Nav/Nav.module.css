@@ -1,0 +1,30 @@
+.nav{
+    grid-area: n;
+    background-color:rgb(219, 219, 214);
+    padding: 20px;
+  }
+  .item a{
+      color:rgb(4, 151, 162);
+      letter-spacing: 0px;
+      font-size: 25px;
+      text-decoration: none;
+      line-height: 35px;
+      
+      
+  }
+  .item a.active {
+    border-bottom: 0px solid;
+    background: #eef0ed;
+
+  }
+  .p {
+      padding: 50px 0px  25px;
+      text-align: center;
+      text-decoration: none;
+     
+     
+  }
+  
+
+  
+
